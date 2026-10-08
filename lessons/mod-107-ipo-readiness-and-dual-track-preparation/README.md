@@ -39,13 +39,13 @@ By the end of this module you should be able to:
 Hands-on practice against a specific pre-IPO company (real or a realistic hypothetical carried through the module). Solutions live in the paired solutions repo and are generated separately.
 
 - [exercise-01 — Going-public decision-framework drill](exercises/exercise-01-going-public-decision-framework-drill.md)
-- exercise-02 — S-1 outline and risk-factor authoring drill *(planned, authored on a later cycle)*
-- exercise-03 — PCAOB auditor selection and 2-year audit plan *(planned)*
-- exercise-04 — SOX readiness scoping and ICFR testing drill *(planned)*
-- exercise-05 — EGC election and scaled-disclosure decision drill *(planned)*
-- exercise-06 — Dual-track M&A + IPO governance drill *(planned)*
-- exercise-07 — NYSE vs. Nasdaq listing-governance graduation *(planned)*
-- exercise-08 — EDGAR filing choreography drill *(planned)*
+- [exercise-02 — S-1 outline and risk-factor authoring drill](exercises/exercise-02-s-1-outline-and-risk-factor-authoring-drill.md)
+- [exercise-03 — PCAOB auditor selection and 2-year audit plan](exercises/exercise-03-pcaob-auditor-selection-and-2-year-audit-plan.md)
+- [exercise-04 — SOX readiness scoping and ICFR testing drill](exercises/exercise-04-sox-readiness-scoping-and-icfr-testing-drill.md)
+- [exercise-05 — EGC election and scaled-disclosure decision drill](exercises/exercise-05-egc-election-and-scaled-disclosure-decision-drill.md)
+- [exercise-06 — Dual-track M&A + IPO governance drill](exercises/exercise-06-dual-track-m-and-a-plus-ipo-governance-drill.md)
+- [exercise-07 — NYSE vs. Nasdaq listing-governance graduation](exercises/exercise-07-nyse-vs-nasdaq-listing-governance-graduation.md)
+- [exercise-08 — EDGAR filing choreography drill](exercises/exercise-08-edgar-filing-choreography-drill.md)
 
 ## Resources
 
@@ -66,4 +66,4 @@ Pick a specific pre-IPO company (real, in-flight, or a realistic hypothetical yo
 
 Read a chapter, then do the matching exercise while the frame is fresh. Chapter 1 installs the decision framework; chapters 2–4 install the drafting / audit / SOX regimes that occupy the bulk of the pre-filing workload; chapter 5 installs the EGC scaled-disclosure elections that materially affect chapters 2 and 4; chapter 6 installs the dual-track structure; chapters 7–8 install the listing-governance and EDGAR mechanics that transition the company into the post-effective public-company regime.
 
-> Layout note: `labs/` and `quizzes/` are placeholders authored on a later cycle. The chapters above and the seeded exercise-01 are the canonical content for this module in this pass; the remaining exercises are seeded by objective and will be filled out in a follow-up cycle. Worked reference deliverables (readiness memos, S-1 outlines, risk-factor sets, auditor-selection memos, SOX programme charters, EGC-election memos, dual-track governance plans, listing-standard graduation checklists, EDGAR filing calendars) live under [`exemplars/`](../../exemplars/) once published.
+> Layout note: `labs/` and `quizzes/` are placeholders authored on a later cycle. The chapters above and exercises 01-08 are the canonical content for this module. Worked reference deliverables (readiness memos, S-1 outlines, risk-factor sets, auditor-selection memos, SOX programme charters, EGC-election memos, dual-track governance plans, listing-standard graduation checklists, EDGAR filing calendars) live under [`exemplars/`](../../exemplars/) once published.
