@@ -1,7 +1,7 @@
 # Ai Startup · Startup Exit & Endgame — Curriculum
 
 <!-- aicg:site-banner -->
-> 🎓 Part of the free, open-source **AI Career Curriculum** ecosystem — [Infrastructure](https://github.com/ai-infra-curriculum) · [ML Engineering](https://github.com/ml-engineering-curriculum) · [AI Engineering](https://github.com/ai-engineering-curriculum) · [Governance](https://github.com/ai-governance-curriculum) · [Startup](https://github.com/ai-startup-curriculum). Live cohorts &amp; team programs: **[ai-infra-curriculum.github.io](https://ai-infra-curriculum.github.io/)**.
+> 🎓 Part of the free, open-source **AI Career Curriculum** ecosystem — [Infrastructure](https://github.com/ai-infra-curriculum) · [ML Engineering](https://github.com/ml-engineering-curriculum) · [AI Engineering](https://github.com/ai-engineering-curriculum) · [Governance](https://github.com/ai-governance-curriculum) · [Startup](https://github.com/ai-startup-curriculum).
 <!-- /aicg:site-banner -->
 
 The deepest and latest-stage functional pillar of the Startup family — the **transaction-execution-and-endgame-decision** apparatus that converts an ongoing company into a realised outcome: **Endgame Strategy → M&A Market Structure → M&A Deal Structures → LOI / Negotiation / Definitive Agreements → M&A Diligence & Data-Room Operations → Secondary Transactions → IPO Readiness & Dual-Track → IPO Execution → Transaction Governance & Fiduciary Duty → Transaction Communications → Post-Close Integration → Succession → Winding Down → Post-Transaction Personal Wealth**. Covers the founder-CEO / CFO / GC / SVP-Corp-Dev / IB-MD seats through acquisition, IPO, secondary liquidity, leadership succession, or responsible shutdown.
