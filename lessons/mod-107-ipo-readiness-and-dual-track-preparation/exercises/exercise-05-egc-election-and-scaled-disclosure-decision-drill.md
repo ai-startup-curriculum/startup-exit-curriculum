@@ -24,8 +24,8 @@ Carry forward the frozen pre-IPO company profile from exercise-01 (company name 
 
 - Most recently completed fiscal year total annual gross revenues (US GAAP, or IFRS-as-issued-by-the-IASB if the issuer will file on Form F-1 as a foreign private issuer): $_____
 - Domestic issuer or foreign private issuer (FPI): _____; if FPI, home jurisdiction and FPI-eligibility rationale: _____
-- Projected annual revenue for each of the next 5 fiscal years (management plan, not consensus): FY+1 $_____; FY+2 $_____; FY+3 $_____; FY+4 $_____; FY+5 $_____
-- Projected non-affiliate public float at each second-fiscal-quarter measurement date over the next 5 years (management plan, using the same share-price assumption used elsewhere in the readiness memo): Q2 FY+1 $_____; Q2 FY+2 $_____; Q2 FY+3 $_____; Q2 FY+4 $_____; Q2 FY+5 $_____
+- Projected annual revenue for each of the next 5 fiscal years (management plan, not consensus): FY+1 $\_\_\_\_\_; FY+2 $\_\_\_\_\_; FY+3 $\_\_\_\_\_; FY+4 $\_\_\_\_\_; FY+5 $\_\_\_\_\_
+- Projected non-affiliate public float at each second-fiscal-quarter measurement date over the next 5 years (management plan, using the same share-price assumption used elsewhere in the readiness memo): Q2 FY+1 $\_\_\_\_\_; Q2 FY+2 $\_\_\_\_\_; Q2 FY+3 $\_\_\_\_\_; Q2 FY+4 $\_\_\_\_\_; Q2 FY+5 $\_\_\_\_\_
 - Planned non-convertible debt issuance schedule for the 3 years post-IPO (issuance date, principal amount, tenor, use of proceeds, and whether the instrument is straight non-convertible or convertible): _____
 - Current adoption status of ASC 842 (leases): _____; current adoption status of ASC 326 (CECL): _____
 - List of major FASB ASUs with upcoming effective dates that differ between public business entities and non-PBEs (title, ASU number, PBE effective date, non-PBE effective date, expected balance-sheet or P&L impact): _____

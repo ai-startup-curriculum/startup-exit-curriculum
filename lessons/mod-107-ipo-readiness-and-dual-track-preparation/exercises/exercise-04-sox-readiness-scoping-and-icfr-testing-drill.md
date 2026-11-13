@@ -38,8 +38,8 @@ Carry the frozen pre-IPO company profile from exercise-01. Add the following SOX
 - IT infrastructure vendor list (AWS / Azure / GCP / on-prem colo / SaaS enumeration for financially-significant apps): _____
 - Current SOX advisor engaged (Big Four SOX advisory / specialist boutique / none): _____
 - Planned first fiscal year subject to Section 404(a) management assessment (state fiscal year end and 10-K filing quarter): _____
-- Projected public float at the second-fiscal-quarter measurement in each of the first 3 post-IPO fiscal years: Year 1 $_____; Year 2 $_____; Year 3 $_____
-- Projected annual revenue in each of the first 3 post-IPO fiscal years: Year 1 $_____; Year 2 $_____; Year 3 $_____
+- Projected public float at the second-fiscal-quarter measurement in each of the first 3 post-IPO fiscal years: Year 1 $\_\_\_\_\_; Year 2 $\_\_\_\_\_; Year 3 $\_\_\_\_\_
+- Projected annual revenue in each of the first 3 post-IPO fiscal years: Year 1 $\_\_\_\_\_; Year 2 $\_\_\_\_\_; Year 3 $\_\_\_\_\_
 - Multi-entity / multi-geography footprint: legal entities _____; countries of operation _____; material foreign statutory audits _____
 
 ## Tasks
