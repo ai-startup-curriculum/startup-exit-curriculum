@@ -41,7 +41,7 @@ Fill in this profile at the top of your deliverable. If any field does not apply
 - CAC payback (months): _____
 - Magic number (last quarter net new ARR / prior quarter S&M): _____
 - Top-10 customer concentration: _____% of revenue; top customer: _____%
-- Cash on balance sheet: $_____; monthly burn: $_____; runway (months): _____
+- Cash on balance sheet: $\_\_\_\_\_; monthly burn: $\_\_\_\_\_; runway (months): _____
 - Current cap-table composition — founder(s) voting %: _____; VC / growth voting %: _____; employee equity: _____%
 - CFO name / prior public-company experience: _____
 - GC name / prior public-company experience: _____

@@ -35,7 +35,7 @@ Fill in this profile at the top of your deliverable. If a field does not apply, 
 - Pre-signing market check (none / targeted outreach / broad auction): _____ with named counterparties
 - Deal-protection package (no-shop, matching rights, termination fee percentage, voting agreements, go-shop window if any): _____
 - Board composition on the target side (number of directors, specific independence of each director under NYSE / Nasdaq definitions plus Delaware functional independence, specific disinterestedness in the transaction): _____
-- Cap-table composition on the target side (common / preferred breakdown, specific controller status under *Kahn v. Lynch Communications*, 638 A.2d 1110 (Del. 1994) and *In re Loral Space & Communications Inc. Consolidated Litigation*, 2008 WL 4293781 (Del. Ch. Sept. 19, 2008) — any stockholder with 30%+ should be interrogated, including dual-class 10b-5(d)1 analysis): _____
+- Cap-table composition on the target side (common / preferred breakdown, specific controller status under *Kahn v. Lynch Communications*, 638 A.2d 1110 (Del. 1994) and *In re Loral Space & Communications Inc. Consolidated Litigation*, 2008 WL 4293781 (Del. Ch. Sept. 19, 2008) — any stockholder with 30%+ should be interrogated, including dual-class super-voting-rights analysis and functional-control factors (contractual consent rights, board-designation rights, management entanglement, information asymmetry) under *In re Cysive, Inc. Shareholders Litigation*, 836 A.2d 531 (Del. Ch. 2003)): _____
 - Majority-of-minority approval contemplated: yes / no / tbd
 - Special committee contemplated: yes / no / tbd
 
