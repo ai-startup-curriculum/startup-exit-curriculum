@@ -19,7 +19,7 @@ You do not yet need the ABC execution depth (chapter 2), the Chapter 7 / Chapter
 - A specific shutting-down company that you will carry through every subsequent exercise in this module. If you do not have a live scenario, construct a realistic hypothetical with the following completeness.
 - Access to:
   - The relevant state corporate-dissolution statute (Delaware §§275–283 for Delaware entities; the equivalent for the entity's state of incorporation).
-  - The US Bankruptcy Code — Chapter 7 (11 U.S.C. §§701–784), Chapter 11 (11 U.S.C. §§1101–1174), Chapter 15 (11 U.S.C. §§1501–1532). Available at <https://uscode.house.gov/>.
+  - The US Bankruptcy Code — Chapter 7 (11 U.S.C. §§701–784), Chapter 11 (11 U.S.C. §§1101–1174), the Chapter 11 **Subchapter V** small-business-debtor track (11 U.S.C. §§1181–1195, added by the Small Business Reorganization Act of 2019, Pub. L. 116-54, effective February 19, 2020), the "small business debtor" eligibility definition (11 U.S.C. §101(51D), adjusted triennially under §104), and Chapter 15 (11 U.S.C. §§1501–1532). Available at <https://uscode.house.gov/>. The temporary $7,500,000 Subchapter V debt-eligibility ceiling originating in the CARES Act and extended by successor legislation (most recently the Bankruptcy Threshold Adjustment and Technical Corrections Act of 2022, Pub. L. 117-151) expired on June 21, 2024; post-sunset eligibility is governed by the inflation-adjusted §101(51D) baseline <!-- needs-research: confirm the §101(51D) aggregate-noncontingent-liquidated-debt amount in effect at the shutdown-decision date after the §104 triennial adjustment effective April 1, 2025 -->
   - The California ABC statutory framework for California entities (California Code of Civil Procedure §493.010 et seq.; Civil Code §§1150 et seq.).
   - The Cooley GO "Winding Down Your Startup" guide at <https://www.cooleygo.com/> for the venture-backed practitioner view.
 
@@ -65,6 +65,8 @@ Produce a 5x6 matrix — five mechanisms × six axes — scored for your specifi
 - The specific fact in your profile that drives the score.
 - The specific uncertainty (what would need to change about the profile for the score to move).
 
+Where Chapter 11 is on the table, score a second Chapter 11 column for the **Subchapter V** streamlined small-business-debtor variant (11 U.S.C. §§1181–1195) if the company's aggregate noncontingent liquidated debts (secured and unsecured) sit under the 11 U.S.C. §101(51D) eligibility ceiling at the decision date. Subchapter V moves the cost and speed axes materially — no creditors' committee by default (11 U.S.C. §1181(b) rendering §1102(a)(3) inapplicable unless the court orders otherwise), no separate disclosure statement by default (11 U.S.C. §1181(b) rendering §1125 inapplicable), only the debtor may file a plan (11 U.S.C. §1189(a)), the plan must be filed within 90 days of the order for relief (11 U.S.C. §1189(b)), a standing Subchapter V trustee is appointed under 11 U.S.C. §1183 whose statutory role is to "facilitate the development of a consensual plan of reorganization" rather than to displace the debtor-in-possession, and the court may confirm a plan over an impaired creditor class's objection under the 11 U.S.C. §1191(b) "fair and equitable" cramdown test without the absolute-priority rule applying — so it is a distinct point on the matrix, not a footnote to Chapter 11.
+
 Axes to score:
 - **Cost** — assignee / trustee / DIP-professional fees; counsel fees; court fees; officer-time (hours).
 - **Speed** — weeks from decision to substantial completion; tail period for claims resolution.
@@ -79,7 +81,7 @@ Walk the six-question decision tree from chapter 1 against your specific facts, 
 
 1. **Is the company solvent?** Document the specific solvency analysis (balance-sheet and cash-flow). If solvent, consider informal wind-down. If not, informal wind-down is off the table.
 2. **Is there going-concern value a Chapter 11 plan could preserve?** Document the specific going-concern analysis. For venture-backed shutdowns the answer is typically no; if yes, Chapter 11 reorganisation is on the table.
-3. **Is there a specific §363-sale advantage that only Chapter 11 provides?** Document the specific buyer requirements and the specific "free and clear" need. If yes, Chapter 11 as §363 vehicle. If no, less expensive mechanisms are preferred.
+3. **Is there a specific §363-sale advantage that only Chapter 11 provides, and if Chapter 11 is on the table is the company eligible for the Subchapter V streamlined track?** Document the specific buyer requirements and the specific "free and clear" need. If yes, Chapter 11 as §363 vehicle — and run the 11 U.S.C. §101(51D) aggregate-debt-eligibility test (secured and unsecured noncontingent liquidated debts, measured at the petition date) to determine whether the Subchapter V variant (11 U.S.C. §§1181–1195) applies and whether the debtor will elect it on the petition under Fed. R. Bankr. P. 1020. If no, less expensive mechanisms are preferred.
 4. **Are the pre-shutdown transactions clean enough for a self-managed mechanism?** Document the specific pre-shutdown transactions in the 90-day / 1-year / 2-year windows and the specific exposure.
 5. **Is there a specific creditor constituency that requires the automatic stay?** Document the specific threatened collections and whether they can be managed informally.
 6. **What is the jurisdiction?** Document the specific state ABC framework (California vs. Delaware vs. other), the specific bankruptcy-venue analysis, and the specific jurisdictional-advantage factors.
@@ -91,7 +93,7 @@ For each question, produce a specific "yes / no / tbd" answer tied to specific f
 Reduce the matrix and the decision-tree analysis to a specific recommendation memo addressed to the specific board. The memo should contain:
 
 - **Executive summary** (3-5 bullets): the recommended mechanism, the key reasoning in one sentence per bullet.
-- **The specific recommendation** — one of: informal wind-down, sale-for-parts under ABC, sale-for-parts under Chapter 11 §363, ABC without sale-for-parts, Chapter 7, Chapter 11 reorganisation.
+- **The specific recommendation** — one of: informal wind-down, sale-for-parts under ABC, sale-for-parts under Chapter 11 §363 (regular Chapter 11 or the Subchapter V variant under 11 U.S.C. §§1181–1195 where the company fits within the §101(51D) eligibility ceiling), ABC without sale-for-parts, Chapter 7, Chapter 11 reorganisation (regular or Subchapter V).
 - **Why this mechanism** — the specific axis scores that favor the recommendation.
 - **Why not the other four** — one paragraph per rejected mechanism explaining the specific reason the mechanism is not selected for these specific facts.
 - **Pre-shutdown workstreams required** — the specific items that must be completed before the mechanism can be executed (D&O tail procurement; pay-order memo; pre-shutdown cleanup of specific insider transactions; sale-for-parts marketing timeline; secured-creditor consent discussions; employee-notice workstream per WARN; investor communications per the LP-report schedule).
@@ -122,11 +124,12 @@ Outline the specific engagement letter to the specific restructuring counsel. Th
 
 ## Starter guidance
 
-Three anti-patterns to avoid:
+Four anti-patterns to avoid:
 
 - **"Chapter 7 is the formal way to close."** Chapter 7 is one of five mechanisms, and for a venture-backed company with modest residual assets and clean pre-shutdown transactions it is often the wrong one — ABC is typically faster, cheaper, and delivers more to creditors. Starting the analysis with "we file Chapter 7" skips the framework.
 - **"We should preserve optionality with Chapter 11."** Chapter 11 is expensive process. The specific optionality it preserves is the ability to confirm a plan of reorganisation — which requires going-concern value most shutdown candidates do not have. Name the specific §363-sale advantage that specifically justifies Chapter 11 over cheaper mechanisms. "Optionality" without a specific preserved option is a reason to spend money that should go to creditors.
 - **"Informal wind-down is cheapest so we should default to it."** Only if solvent. An informal wind-down of an insolvent company produces specific fiduciary-duty exposure, specific fraudulent-transfer exposure, and specific involuntary-bankruptcy exposure that specifically dwarfs the cost savings. Solvency is the gate; without it, the informal wind-down is not an option, not a cheaper option.
+- **"Subchapter V is for mom-and-pop businesses, not venture-backed startups."** Subchapter V (11 U.S.C. §§1181–1195), added by the Small Business Reorganization Act of 2019 (Pub. L. 116-54), is defined by the 11 U.S.C. §101(51D) aggregate-debt eligibility ceiling and by nothing else — not by industry, not by business form, not by investor base. Many venture-backed shutdown candidates fit the ceiling once their debts are tallied at the decision date (the $7,500,000 CARES-era temporary ceiling sunset on June 21, 2024, so the current gate is the inflation-adjusted §101(51D) baseline). When Subchapter V is available it delivers the automatic-stay and §363(f) "free and clear" advantages of a regular Chapter 11 at materially lower cost and on a faster clock — no creditors' committee by default under §1181(b), no separate disclosure statement by default under §1181(b), a 90-day deadline to file the plan under §1189(b), and §1191(b) "fair and equitable" cramdown confirmation without the absolute-priority rule applying. Ruling Subchapter V out because the case "feels small" is specifically the failure mode the statute was enacted to displace.
 
 Three operational suggestions:
 
