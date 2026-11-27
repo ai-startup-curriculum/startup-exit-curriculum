@@ -59,7 +59,7 @@ Sections to cover, with the specific item citation:
 - **Executive Compensation** — Item 402, with an explicit **EGC-scaled vs. full** option (2-year Summary Compensation Table, top-three NEOs, CD&A omission for EGCs; full CD&A, 3-year table, top-five NEOs, and Item 402(v) pay-versus-performance for non-EGCs).
 - **Certain Relationships and Related Person Transactions** — Item 404, at the current $120,000 threshold.
 - **Principal and Selling Stockholders** — Items 403 and 507.
-- **Description of Capital Stock** — Item 202, including anti-takeover charter and bylaw provisions and the exclusive-forum provision (Delaware Chancery for internal-affairs claims and, per **Salzberg v. Sciabacucchi**, federal district court for Securities Act claims where charter so provides).
+- **Description of Capital Stock** — Item 202, including anti-takeover charter and bylaw provisions and the exclusive-forum provision (Delaware Chancery for internal-affairs claims and, per *Salzberg v. Sciabacucchi*, 227 A.3d 102 (Del. 2020), federal district court for Securities Act claims where charter so provides).
 - **Shares Eligible for Future Sale**.
 - **Underwriting**.
 - **Legal Matters** and **Experts**.
@@ -82,7 +82,7 @@ Produce a specific financial-statement footprint plan.
 
 ### 4. Risk-factor authoring drill
 
-Draft 15–25 principles-based, plain-English risk factors under Item 105 (2020 amendments) for your specific company. Group under specific descriptive headings, not the generic "Risks Related to Our Business" catch-all.
+Draft 15–25 principles-based, plain-English risk factors under Item 105 (as amended by SEC Release No. 33-10825, Aug. 26, 2020, "Modernization of Regulation S-K Items 101, 103, and 105") for your specific company. Group under specific descriptive headings, not the generic "Risks Related to Our Business" catch-all.
 
 - Grouping — at minimum: **industry and market**, **business and operational**, **financial**, **regulatory and legal**, **intellectual property**, **cybersecurity** (with the Item 106 governance tie), **AI and model** where applicable, **governance** (controlled-company disclosure, dual-class or multi-class if applicable), and **common stock** (volatility, no-dividend intent, anti-takeover charter and bylaw provisions, DGCL §203 posture, exclusive-forum provision).
 - Length — target a section that stays inside the Item 105 15-page soft cap. If your draft exceeds 15 pages, include a two-page **Summary of Risk Factors** lead per Item 105 and per Rule 421 plain-English drafting.
@@ -91,14 +91,14 @@ Draft 15–25 principles-based, plain-English risk factors under Item 105 (2020 
 
 ### 5. Source-and-cite binder plan (Section 11(b) due-diligence defence)
 
-Produce the binder plan supporting the Section 11(b) due-diligence defence under the **BarChris** framework — every material claim traces to an underlying source with a specific owner and a specific evidence pointer.
+Produce the binder plan supporting the Section 11(b) due-diligence defence (15 U.S.C. § 77k(b)(3)) under the *Escott v. BarChris Construction Corp.*, 283 F. Supp. 643 (S.D.N.Y. 1968) framework — every material claim traces to an underlying source with a specific owner and a specific evidence pointer.
 
 - Binder schema — for each material claim in the S-1: claim text, section reference, source type (audited statement, internal SaaS-metrics workbook, Gartner / IDC / Forrester report, database query, board minute, contract), source pointer (file path, report title and page, query name), source owner, review-and-tie-out status.
 - Due-diligence Q&A schedule — a specific cadence of 2–4-hour sessions with management (CEO, CFO, GC, controller, sales leader, product leader) run by underwriter counsel, transcribed and preserved in the diligence file.
 - Management representation letter — the specific letter management delivers to the underwriters at pricing, coordinated with the officers' certificate.
 - Officers' certificate — the specific certificate delivered at pricing covering the accuracy of the S-1 at pricing.
 - Comfort-letter interlock — the auditor's pricing and closing comfort letters providing negative assurance on interim-period changes and tick-and-tie on every S-1 number that traces to the accounting records; sequenced against the pricing and closing dates in task 1.
-- Underwriter-facing coverage — call out the specific "watchdog" investigation posture the underwriters owe under BarChris beyond passive reliance on management representations.
+- Underwriter-facing coverage — call out the specific "watchdog" investigation posture the underwriters owe under *BarChris* beyond passive reliance on management representations, including the duty to follow up on "red flags" that surface in the diligence record.
 
 ### 6. Mock SEC first-round comment letter
 
